@@ -1,5 +1,7 @@
 # generator-static2000 [![Build Status](https://secure.travis-ci.org/judas-christ/generator-static2000.png?branch=master)](https://travis-ci.org/judas-christ/generator-static2000)
 
+> This package has moved into the [Static2000 monorepo](https://github.com/judas-christ/static2000).
+
 [Yeoman](http://yeoman.io) generator that scaffolds a [Static2000](https://github.com/judas-christ/static2000) site. Like a boss.
 
 ## Features
